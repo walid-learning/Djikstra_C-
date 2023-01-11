@@ -1,4 +1,4 @@
-# Djikstra_C-
+# Djikstra_C++
 
 Dans le cadre du marché de vente des données de trafic une base de données et
 l’algorithme de Dijkstra sont des choix logiques car considérés comme robustes.
